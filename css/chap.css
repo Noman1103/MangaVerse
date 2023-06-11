@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(#393e46,#0092ca);
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+}
+
+section {
+    margin: 40px 25%;
+    background-color: #222831;
+    border-radius: 2em;
+}
+
+span {
+    background: #393e46;
+    border-radius: 20px;
+}
+
+img {
+    height: 50em;
+}
+
+.carousel {
+    padding : 4em 7.5em;
+}
